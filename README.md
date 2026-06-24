@@ -1,6 +1,6 @@
-# Infinite Balloon - Legal Documents
+# Infinite Balloon Pop - Legal Documents
 
-Welcome to the official legal documentation repository for the game **Infinite Balloon**, developed by Mandacaru Indie Game Dev.
+Welcome to the official legal documentation repository for the game **Infinite Balloon Pop**, developed by Mandacaru Indie Game Dev.
 
 Please use the links below to navigate through our official policies:
 

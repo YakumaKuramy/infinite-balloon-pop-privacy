@@ -1,8 +1,8 @@
-# Infinite Balloon - Terms of Service
+# Infinite Balloon Pop - Terms of Service
 
 _Last updated: June 2026_
 
-By downloading or using the **Infinite Balloon** game, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the game.
+By downloading or using the **Infinite Balloon Pop** game, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the game.
 
 ### 1. Intellectual Property
 

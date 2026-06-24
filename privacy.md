@@ -1,8 +1,8 @@
-# Infinite Balloon - Privacy Policy
+# Infinite Balloon Pop - Privacy Policy
 
 _Last updated: June 2026_
 
-Mandacaru Game Dev developed the **Infinite Balloon** game as an Ad-Supported app. This service is provided at no cost and is designed for use as is.
+Mandacaru Game Dev developed the **Infinite Balloon Pop** game as an Ad-Supported app. This service is provided at no cost and is designed for use as is.
 
 ### 1. Information Collection and Use
 
